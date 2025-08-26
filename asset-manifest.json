@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Github_Profile_Checker/static/css/main.fe0330b0.css",
+    "main.js": "/Github_Profile_Checker/static/js/main.0a630c75.js",
+    "index.html": "/Github_Profile_Checker/index.html",
+    "main.fe0330b0.css.map": "/Github_Profile_Checker/static/css/main.fe0330b0.css.map",
+    "main.0a630c75.js.map": "/Github_Profile_Checker/static/js/main.0a630c75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0330b0.css",
+    "static/js/main.0a630c75.js"
+  ]
+}
