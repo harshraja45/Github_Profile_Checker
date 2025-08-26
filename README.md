@@ -1,5 +1,7 @@
 Here's a template for a README file for your GitHub profile search app project:
 
+[Click here to view](https://harshraja45.github.io/Github_Profile_Checker/)
+
 ---
 
 # GitHub Profile Search App
